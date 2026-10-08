@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "howtoplay": "Cómo Jugar",
+    "stats": "Estadísticas"
+  },
+  "footer": {
+    "tagline": "¡Hecho para niños curiosos en todas partes! 🌟"
+  },
+  "header": {
+    "heading": "🧠 ¡Memory Match!",
+    "body": "¿Puedes encontrar todos los pares que coinciden? ¡Voltea las tarjetas y mira! 🎉"
+  },
+  "stats": {
+    "label": "Estadísticas del juego",
+    "moves": "Movimientos",
+    "pairs": "Pares Encontrados",
+    "newGame": "🔀 Nuevo Juego"
+  },
+  "new-game-button": {
+    "body": "¿Quieres empezar de nuevo? ¡Presiona el botón y las tarjetas se barajarán de nuevo! 🔀",
+    "cta": "🔀 Nuevo Juego"
+  },
+  "celebration": {
+    "heading": "🎊 ¡Lo hiciste! ¡Trabajo increíble! 🎊",
+    "body": "¡Encontraste los 6 pares! ¡Eres una superestrella de Memory Match! ⭐ ¿Puedes superar tu puntuación la próxima vez?",
+    "cta": "🎮 Jugar de Nuevo"
+  },
+  "hero": {
+    "title": "Memory Match 🎴",
+    "subtitle": "¡Voltea las tarjetas y encuentra todos los pares que coinciden!"
+  },
+  "board": {
+    "label": "Tablero del juego",
+    "cardHidden": "Tarjeta oculta — haz clic para voltear",
+    "cardRevealed": "Tarjeta revelada:"
+  },
+  "howTo": {
+    "title": "Cómo Jugar 🕹️",
+    "steps": [
+      {
+        "emoji": "👆",
+        "title": "Click a Card",
+        "desc": "Tap any card to flip it over and see the emoji hiding underneath!"
+      },
+      {
+        "emoji": "🔍",
+        "title": "Find the Match",
+        "desc": "Flip a second card. If both emojis are the same, you found a pair!"
+      },
+      {
+        "emoji": "🏆",
+        "title": "Win the Game",
+        "desc": "Match all 6 pairs in as few moves as possible to become a Memory Champion!"
+      }
+    ]
+  },
+  "facts": {
+    "title": "¿Sabías que? 🧠",
+    "items": [
+      {
+        "emoji": "🦊",
+        "text": "Foxes have amazing memories! They remember where they buried their food even months later."
+      },
+      {
+        "emoji": "🐬",
+        "text": "Dolphins can remember other dolphins they met over 20 years ago. That is a super long time!"
+      },
+      {
+        "emoji": "🦄",
+        "text": "Playing memory games every day helps your brain grow stronger, just like exercise grows your muscles!"
+      },
+      {
+        "emoji": "🚀",
+        "text": "Astronauts train their memory to remember hundreds of buttons and switches on their spacecraft!"
+      }
+    ]
+  },
+  "emojis": {
+    "title": "Conoce los Emojis 👋",
+    "subtitle": "Estos 6 personajes divertidos se esconden en el juego. ¿Puedes encontrarlos todos?"
+  },
+  "win": {
+    "title": "¡Ganaste! 🎉",
+    "subtitle": "¡Trabajo increíble! Emparejaste todos los pares en",
+    "move": "¡movimiento!",
+    "moves": "¡movimientos!",
+    "playAgain": "🔀 Jugar de Nuevo"
+  },
+  "game-board": [
+    {
+      "emoji": "🦊",
+      "name": "Fox",
+      "desc": "A sneaky orange fox hiding in the forest"
+    },
+    {
+      "emoji": "🐸",
+      "name": "Frog",
+      "desc": "A happy green frog sitting on a lily pad"
+    },
+    {
+      "emoji": "🦋",
+      "name": "Butterfly",
+      "desc": "A pretty butterfly with colourful wings"
+    },
+    {
+      "emoji": "🍕",
+      "name": "Pizza",
+      "desc": "A yummy slice with all the toppings"
+    },
+    {
+      "emoji": "🚀",
+      "name": "Rocket",
+      "desc": "Zooming off to outer space"
+    },
+    {
+      "emoji": "🌈",
+      "name": "Rainbow",
+      "desc": "Seven colours shining after the rain"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "home": "Home",
+    "howtoplay": "How to Play",
+    "stats": "Stats"
+  },
+  "footer": {
+    "tagline": "Made for curious kids everywhere! 🌟"
+  },
+  "header": {
+    "heading": "🧠 Memory Match!",
+    "body": "Can you find all the matching pairs? Flip the cards and see! 🎉"
+  },
+  "game-board": [
+    {
+      "emoji": "🦊",
+      "name": "Fox",
+      "desc": "A sneaky orange fox hiding in the forest"
+    },
+    {
+      "emoji": "🐸",
+      "name": "Frog",
+      "desc": "A happy green frog sitting on a lily pad"
+    },
+    {
+      "emoji": "🦋",
+      "name": "Butterfly",
+      "desc": "A pretty butterfly with colourful wings"
+    },
+    {
+      "emoji": "🍕",
+      "name": "Pizza",
+      "desc": "A yummy slice with all the toppings"
+    },
+    {
+      "emoji": "🚀",
+      "name": "Rocket",
+      "desc": "Zooming off to outer space"
+    },
+    {
+      "emoji": "🌈",
+      "name": "Rainbow",
+      "desc": "Seven colours shining after the rain"
+    }
+  ],
+  "stats": {
+    "label": "Game stats",
+    "moves": "Moves",
+    "pairs": "Pairs Found",
+    "newGame": "🔀 New Game"
+  },
+  "new-game-button": {
+    "body": "Want to start over? Hit the button and the cards will shuffle again! 🔀",
+    "cta": "🔀 New Game"
+  },
+  "celebration": {
+    "heading": "🎊 You did it! Amazing job! 🎊",
+    "body": "You found ALL 6 pairs! You are a Memory Match superstar! ⭐ Can you beat your score next time?",
+    "cta": "🎮 Play Again"
+  },
+  "hero": {
+    "title": "Memory Match 🎴",
+    "subtitle": "Flip the cards and find all the matching pairs!"
+  },
+  "board": {
+    "label": "Game board",
+    "cardHidden": "Hidden card — click to flip",
+    "cardRevealed": "Revealed card:"
+  },
+  "howTo": {
+    "title": "How to Play 🕹️",
+    "steps": [
+      {
+        "emoji": "👆",
+        "title": "Click a Card",
+        "desc": "Tap any card to flip it over and see the emoji hiding underneath!"
+      },
+      {
+        "emoji": "🔍",
+        "title": "Find the Match",
+        "desc": "Flip a second card. If both emojis are the same, you found a pair!"
+      },
+      {
+        "emoji": "🏆",
+        "title": "Win the Game",
+        "desc": "Match all 6 pairs in as few moves as possible to become a Memory Champion!"
+      }
+    ]
+  },
+  "facts": {
+    "title": "Did You Know? 🧠",
+    "items": [
+      {
+        "emoji": "🦊",
+        "text": "Foxes have amazing memories! They remember where they buried their food even months later."
+      },
+      {
+        "emoji": "🐬",
+        "text": "Dolphins can remember other dolphins they met over 20 years ago. That is a super long time!"
+      },
+      {
+        "emoji": "🦄",
+        "text": "Playing memory games every day helps your brain grow stronger, just like exercise grows your muscles!"
+      },
+      {
+        "emoji": "🚀",
+        "text": "Astronauts train their memory to remember hundreds of buttons and switches on their spacecraft!"
+      }
+    ]
+  },
+  "emojis": {
+    "title": "Meet the Emojis 👋",
+    "subtitle": "These 6 fun characters are hiding in the game. Can you find them all?"
+  },
+  "win": {
+    "title": "You Won! 🎉",
+    "subtitle": "Amazing job! You matched all the pairs in",
+    "move": "move!",
+    "moves": "moves!",
+    "playAgain": "🔀 Play Again"
+  }
+}
